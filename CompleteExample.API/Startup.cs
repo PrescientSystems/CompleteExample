@@ -1,5 +1,4 @@
 using CompleteExample.Entities;
-using CompleteExample.Logic;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
