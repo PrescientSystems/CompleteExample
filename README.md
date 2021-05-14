@@ -16,7 +16,6 @@ The BuildDatabaseWithSampleData.sql script will build the database with the nece
 Create API endpoints that return all columns that do the following:
 
 * List all courses for a particular student
-* List all students for each course
 * For a particular instructor, list all the students' grades the instructor has given out
 * List all students that have the top 3 grades for each course
 * Enroll a student in a course
