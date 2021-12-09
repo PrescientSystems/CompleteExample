@@ -20,6 +20,7 @@ Create API endpoints that return all columns that do the following:
 * Enroll a student in a course
 * Update a grade(number) for a student for a course
 
-## Bonus Requirements
+## Stretch Goals
 
-Setup a postman collection that calls each one of the endpoints.
+* Modify the databse to allow for the storage of students' historical grades.
+* Setup a postman collection that calls each one of the endpoints.
