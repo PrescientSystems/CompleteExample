@@ -1,6 +1,6 @@
 # Overview 
 
-Hello! We would like you to build .NET API endpoints that perform actions on a SQL database. If you encounter any issues while working through this challenge, please be sure to share them with us or how you worked around them.
+Hello! We would like you to build .NET API endpoints that perform actions on a SQL database. If you encounter any issues while working through this challenge, please be sure to share them with us or how you worked around them. While we are interested in a working example it is not required to finish the complete exercise.  It is important to be able to present your example solution showing how you came up with your solution, good Object Oriented coding practices and a strong working knowledge of .Net.
 
 ## Software Requirements
 
